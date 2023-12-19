@@ -18,20 +18,19 @@ The following **required** functionality is completed:
 
 
 ## App Brainstorming
+
 1. Spotify
    - Creating and curating playlists tailored to my mood
    - Ability to collaborate and listen to the same music with friends in real-time
 
 2. Reminders
    - Automatic generative grocery lists
-   - Tags in reminders that help categorize them into specific lists
+   - Tags in reminders that help categorize tasks into specific lists
 
 3. iMessage
    - Flexibility to edit messages even after they've been sent
    - Ability to see when a person is actively typing
    - Message visual effects
-
-
 
 ## Notes
 
