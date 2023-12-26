@@ -18,7 +18,6 @@ class ViewController: UIViewController {
 		// Do any additional setup after loading the view.
 	}
 	
-	
 	@IBAction func changeBackgroundColor(_ sender: UIButton) {
 		func changeColor() -> (backgroundColor: UIColor, fontColor: UIColor) {
 			let red = CGFloat.random(in: 0...1)
