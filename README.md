@@ -19,6 +19,8 @@ The following **required** functionality is completed:
 
 ## App Brainstorming
 
+Features of My Favorite Apps
+
 1. Spotify
    - Creating and curating playlists tailored to my mood
    - Ability to collaborate and listen to the same music with friends in real-time
@@ -31,6 +33,10 @@ The following **required** functionality is completed:
    - Flexibility to edit messages even after they've been sent
    - Ability to see when a person is actively typing
    - Message visual effects
+   
+Proposed App Idea: "AutoDetect Insights"
+
+AutoDetect Insights is an app that leverages the power of Artificial Intelligence (AI) and Machine Learning (ML) to revolutionize the online car-buying experience. The primary feature of the app Introducing AutoDetect Insights, an innovative app poised to transform the landscape of online car buying. Harnessing the capabilities of Artificial Intelligence (AI) and Machine Learning (ML), this application stands out with its initial focus on accurately identifying transmission types, such as manual or automatic, from images of cars listed for sale. Beyond this, AutoDetect Insights aims to be an all-encompassing car purchase companion, extending its functionality to rectify commonly misreported details in online listings. By seamlessly integrating NADA values, Bring a Trailer (BAT) results, Hagerty averages, and offering insights into prevalent issues and associated repair costs, the app becomes an indispensable resource for users seeking reliable information to make well-informed decisions. With its comprehensive approach, AutoDetect Insights is poised to redefine the online car-buying experience, providing users with a streamlined and trustworthy tool for navigating the complexities of digital vehicle purchases.
 
 ## Notes
 
